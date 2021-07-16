@@ -1,0 +1,12 @@
+module.exports={
+    arr:[
+        {
+            id:1,
+            name:"ganesh"
+        },
+        {
+            id:2,
+            name:"dinesh"
+        }
+    ]
+}
